@@ -1,6 +1,8 @@
 Hello CI!
 =======
 
+Remove me.
+
 Test projects for Git training
 
 Build
