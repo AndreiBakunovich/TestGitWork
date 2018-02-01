@@ -1,7 +1,7 @@
 Hello CI!
 =======
 
-Remove me.
+Modification from site.
 
 Test projects for Git training
 
