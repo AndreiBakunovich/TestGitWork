@@ -1,7 +1,7 @@
 Hello CI!
 =======
 
-Remove me.
+Modification from Andrei Bakunovich.
 
 Test projects for Git training
 
