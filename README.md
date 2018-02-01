@@ -1,7 +1,7 @@
 Hello CI!
 =======
 
-Modification from Andrei Bakunovich.
+Modification from unknown author.
 
 Test projects for Git training
 
